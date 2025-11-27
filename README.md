@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h2>I'm Mir Sumon</h2> <small>Frontend developer</small>
+<h2>I'm Mir Sumon, <small>Frontend developer</small></h2>
 
 <!--
 **mirsumon9/mirsumon9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
