@@ -11,5 +11,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **Laravel**
 - 👯 I’m looking to collaborate on [Projukti Plus Workshop Project](https://www.facebook.com/share/p/1AGUamsTKf/)
 - 💬 Ask me about **Laravel, React, Vue**
-- 📫 How to reach me: [https://mirsumon9.github.io/portfolio/]
+- 📫 How to reach me: https://mirsumon9.github.io/portfolio/
 - ⚡ Fun fact: **I like to watch movies, TV shows, anime, WWE, etc.**
