@@ -1,9 +1,8 @@
 ## Hi there 👋
 
-<h2>I'm Mir Sumon</h2>
-<h3>Frontend developer</h3>
+<h2>I'm Mir Sumon</h2> <h4>Frontend developer</h4>
 
-<!--
+
 **mirsumon9/mirsumon9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -16,4 +15,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [https://mirsumon9.github.io/portfolio/]
 - 😄 Pronouns: ...
 - ⚡ Fun fact: **I like to watch movies, TV shows, anime, WWE, etc.**
--->
